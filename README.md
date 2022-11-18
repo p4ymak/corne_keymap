@@ -1,2 +1,1 @@
-# corne_keymap
-Key mapping for my Corne keyboard
+# Key mapping for my Corne keyboard
