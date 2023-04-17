@@ -1,1 +1,1 @@
-# Key mapping for my Corne keyboard
+# Key mappings for my Corne & Jorne keyboards
